@@ -5,9 +5,9 @@
 ![bargraph for mice](https://github.com/EmmaLimoli/matplotlib---pharmaceuticals/blob/master/matplotlib_homework/images/Screen%20Shot%202020-07-14%20at%204.38.09%20PM.png)
 
 
-The Goal: The goal of this project was to analyze pharmaceutical data from mice to identify treatments that would be beneficial in cancer treatment. There were 10 different treatments that were used on the mice and I took the top four effective ones to determine the best option.
+<strong>The Goal:</strong> The goal of this project was to analyze pharmaceutical data from mice to identify treatments that would be beneficial in cancer treatment. There were 10 different treatments that were used on the mice and I took the top four effective ones to determine the best option.
 
-How This Was Achieved:
+<strong>How This Was Achieved:</strong>
 There were two CSVs that I was given that had the data for the mice and for the study results. I merged these two CSV files on 'Mouse ID.' Once that was complete, I cleaned the data to ensure there were no duplicates. 
 
 After that was complete, I decided to look through the statistics to gain a better understanding of what the data was doing. I used groupby to look at each individual treatment. Once that was complete, I created a dataframe to put the mean, median, variance, standard deviation, and the SEM to analyze. For each of the treatments, I could read the mean, median, variance, standard deviation, and the SEM to determine which one was the most effective. 
@@ -22,17 +22,19 @@ I created scatterplots and a line graph to plot the data. The line graph showed 
 
 Lastly, I used correlation and regression to plot the weight and tumor volume of the mice who took Capomulin. I calculated the coefficent to see the relationship between the top drug treatment and how effective it was on the mice. The scatterplot and linear regression was used to show the trajectory of treatment. 
 
-Conclusion:
+<strong>Conclusion:</strong>
 In conclusion, we were able to determine the best treatment out of all of the options for cancer. By analyzing the tumor volume of the mice, we were able to see which option had the biggest impact. It was determined that Capomulin was ideal because it had the greated impact on the mice decreasing their tumor size.
 
-Observation One: 
+<strong>Observable Trends</strong>
+
+<strong>Observation One:</strong> 
 The first observation that can be gathered from the data is Ramicane had the lowest average for the tumor volume size at 40.21. Capomulin had the second lowest average at 40.67. The rest of the treatments have pretty similiar means. This shows us that Ramicane and Capomulin were the most succesful for tumor volume size.
 
-Observation Two: 
+<strong>Observation Two:</strong> 
 Capomulin and Ramicane are two comparable drug treatments. Capomulin used 230 mice in the trial and Ramicane used 228. To figure out which treatment would be best for anti-cancer pharmaceuticals, it would be beneficial to compare these two treatments more in depth to further understand the differences.
 
-Observation Three: 
+<strong>Observation Three:</strong> 
 The Capomulin method has a correlation between weight and tumor of 0.7088568047708717, which means due to its close proximity to 1, there is a stronger correlation.
 
-Tools used: Scipy.stats, Pandas, Numpy, Matplotlib
+<strong>Tools used: Scipy.stats, Pandas, Numpy, Matplotlib</strong>
 
