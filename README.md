@@ -18,6 +18,8 @@ To create effective visuals for the data to help tell the story, I used a bar pl
 
 Next, I used quartiles, outliers, and boxplots to better understand the top four drug treatments. I took Capomulin, Ramicane, Infubinol, and Ceftamin and pulled all of the data for the tumor volume (mm3) for each mouse. Looking at this number helped to plot out the quartiles and median to determine what option of drug treatment is best.
 
+![box plot](https://github.com/EmmaLimoli/matplotlib---pharmaceuticals/blob/master/matplotlib_homework/images/Screen%20Shot%202020-07-14%20at%204.38.33%20PM.png)
+
 Once that was complete, I created a boxplot to look at the drug treatments and create a visualize that could easily be digested. It showed the outliers and the tumor volume for the top four treatments. 
 
 I created scatterplots and a line graph to plot the data. The line graph showed the treatment path for one mouse that used Capomulin. This helped to look at the journey of one mouse's treatment. In the scatterplots, I looked at the weight and tumor volume for mice that were given Capomulin. Capomulin was chosen because it seemed to be the best treatment option.
