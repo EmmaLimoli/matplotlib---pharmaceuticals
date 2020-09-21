@@ -24,10 +24,14 @@ Once that was complete, I created a boxplot to look at the drug treatments and c
 
 I created scatterplots and a line graph to plot the data. The line graph showed the treatment path for one mouse that used Capomulin. This helped to look at the journey of one mouse's treatment. In the scatterplots, I looked at the weight and tumor volume for mice that were given Capomulin. Capomulin was chosen because it seemed to be the best treatment option.
 
+![line graph](https://github.com/EmmaLimoli/matplotlib---pharmaceuticals/blob/master/matplotlib_homework/images/Screen%20Shot%202020-07-14%20at%204.38.40%20PM.png)
+
 Lastly, I used correlation and regression to plot the weight and tumor volume of the mice who took Capomulin. I calculated the coefficent to see the relationship between the top drug treatment and how effective it was on the mice. The scatterplot and linear regression was used to show the trajectory of treatment. 
 
 <strong>Conclusion:</strong>
 In conclusion, we were able to determine the best treatment out of all of the options for cancer. By analyzing the tumor volume of the mice, we were able to see which option had the biggest impact. It was determined that Capomulin was ideal because it had the greated impact on the mice decreasing their tumor size.
+
+![scatterplot](https://github.com/EmmaLimoli/matplotlib---pharmaceuticals/blob/master/matplotlib_homework/images/Screen%20Shot%202020-07-14%20at%2010.13.19%20PM.png)
 
 <strong>Observable Trends</strong>
 
