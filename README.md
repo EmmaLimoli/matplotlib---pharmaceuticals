@@ -12,6 +12,8 @@ There were two CSVs that I was given that had the data for the mice and for the 
 
 After that was complete, I decided to look through the statistics to gain a better understanding of what the data was doing. I used groupby to look at each individual treatment. Once that was complete, I created a dataframe to put the mean, median, variance, standard deviation, and the SEM to analyze. For each of the treatments, I could read the mean, median, variance, standard deviation, and the SEM to determine which one was the most effective. 
 
+![stats](https://github.com/EmmaLimoli/matplotlib---pharmaceuticals/blob/master/matplotlib_homework/images/Screen%20Shot%202020-07-14%20at%2010.12.10%20PM.png)
+
 To create effective visuals for the data to help tell the story, I used a bar plot and pie graph. There are two bar graphs that were created one by Pandas and the other by PyPlot. Both of the bar plots show the same data (the number of mice per timepoint for the drug treatment) by using two different methods. The pie plot breaks up the female vs. male mice in both of the pie plots, but use two different methods as well (Pandas and PyPlot).
 
 Next, I used quartiles, outliers, and boxplots to better understand the top four drug treatments. I took Capomulin, Ramicane, Infubinol, and Ceftamin and pulled all of the data for the tumor volume (mm3) for each mouse. Looking at this number helped to plot out the quartiles and median to determine what option of drug treatment is best.
