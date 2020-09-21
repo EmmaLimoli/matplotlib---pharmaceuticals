@@ -1,6 +1,7 @@
 # matplotlib---pharmaceuticals
 
-Pharmaceutical Mouse Data
+<h1>Pharmaceutical Mouse Data</h1>
+![bargraph](https://github.com/EmmaLimoli/matplotlib---pharmaceuticals/blob/master/matplotlib_homework/images/Screen%20Shot%202020-07-14%20at%204.38.09%20PM.png)
 
 The Goal: The goal of this project was to analyze pharmaceutical data from mice to identify treatments that would be beneficial in cancer treatment. There were 10 different treatments that were used on the mice and I took the top four effective ones to determine the best option.
 
